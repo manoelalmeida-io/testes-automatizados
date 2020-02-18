@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00a6dd63-b46f-49d1-973f-f066297f9c57" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1Xz7MLkOK4BfahOauHqmx6KOx7J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RunnerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.runners.RunnerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RunnerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00a6dd63-b46f-49d1-973f-f066297f9c57" name="Default Changelist" comment="" />
+      <created>1582037019212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582037019212</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="343" key="GridCell.Tab.0.bottom" timestamp="1582039533137">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="343" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1582039533137" />
+    <state width="1237" height="343" key="GridCell.Tab.0.center" timestamp="1582039533136">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="343" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1582039533136" />
+    <state width="1237" height="343" key="GridCell.Tab.0.left" timestamp="1582039533136">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="343" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1582039533136" />
+    <state width="1237" height="343" key="GridCell.Tab.0.right" timestamp="1582039533136">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="343" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1582039533136" />
+    <state x="120" y="69" key="SettingsEditor" timestamp="1582037309640">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="120" y="69" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1582037309640" />
+  </component>
+</project>
