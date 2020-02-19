@@ -37,4 +37,10 @@ public class LoginPage {
   public void acionarBotaoLogin() {
     botaoLogin.click();
   }
+
+  public void realizarLogin(String usuario, String senha) {
+    informarCampoUsuario(usuario);
+    informarCampoSenha(senha);
+    acionarBotaoLogin();
+  }
 }
