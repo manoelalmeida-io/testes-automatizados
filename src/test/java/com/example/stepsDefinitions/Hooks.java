@@ -9,7 +9,7 @@ import com.example.pageObjects.LoginPage;
 
 public class Hooks {
 
-  @Before(value = "@CadastrarUsuario")
+  @Before("@CadastrarUsuario or @TestarActions")
   public void setup() {
     acessarSistema();
     Na(LoginPage.class).realizarLogin("admin", "admin123");

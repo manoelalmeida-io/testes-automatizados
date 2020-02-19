@@ -11,7 +11,7 @@ import io.cucumber.junit.CucumberOptions.SnippetType;
   plugin = { "pretty" },
   features = "src/test/resources/features",
   glue = "com.example.stepsDefinitions",
-  tags = "@CadastrarUsuario",
+  tags = "@TestarActions",
   snippets = SnippetType.CAMELCASE,
   monochrome = true,
   dryRun = false
