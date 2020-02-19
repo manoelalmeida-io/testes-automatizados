@@ -12,21 +12,19 @@ import io.cucumber.java.pt.Quando;
 
 public class LoginSteps {
 
-  LoginPage loginPage = new LoginPage();
-
   @Quando("eu informar o usuario {string}")
   public void euInformarOUsuario(String usuario) {
-      loginPage.informarCampoUsuario(usuario);
+      Na(LoginPage.class).informarCampoUsuario(usuario);
   }
 
   @Quando("informar a senha {string}")
   public void informarASenha(String senha) {
-      loginPage.informarCampoSenha(senha);
+      Na(LoginPage.class).informarCampoSenha(senha);
   }
 
   @Quando("clicar no botao login")
   public void clicarNoBotaoLogin() {
-      loginPage.acionarBotaoLogin();
+      Na(LoginPage.class).acionarBotaoLogin();
   }
 
   @Entao("o sistema exibe a mensagem de usuario invalido")
