@@ -1,5 +1,6 @@
 package com.example.stepsDefinitions;
 
+import io.cucumber.core.api.Scenario;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 
@@ -21,7 +22,8 @@ public class Hooks {
   }
 
   @After
-  public void tearDown() {
-    //driver.quit();
+  public void tearDown(Scenario scenario) {
+    capturarTela(scenario);
+    driver.quit();
   }
 }
