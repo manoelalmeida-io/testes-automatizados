@@ -46,6 +46,6 @@ gradle-app.setting
 **/build/
 
 ### Cucumber Report ###
-#target/cucumber-report/*
+target/cucumber-report/*
 
 # End of https://www.gitignore.io/api/java,gradle
